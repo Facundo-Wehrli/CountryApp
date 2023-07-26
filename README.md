@@ -13,3 +13,20 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Angular Topics envolved
+
+- Routes
+- RouterLink & RouterLinkActive
+- Specialized components
+- DebounceTime
+- Inputs
+- SwitchMaps
+- APIs usage
+- ngClass
+- HTTP request optimization
+- Debounce bia RxJs
+- LocalStorage
+- tap
+ & more
+  
